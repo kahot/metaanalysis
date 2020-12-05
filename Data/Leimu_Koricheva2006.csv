@@ -1,0 +1,39 @@
+aut,year,species,family,z,variance
+Sih & Baltus,1987,Nepeta cataria,Scrophulariaceae,0.9527,0.0769
+"Jennersten, O & Nilsson, S. G.",1993,Viscaria vulgaris,Caryophyllaceae,0.2069,0.0127
+Lamont et al.,1993,Banksia goodii,Proteaceae,0.496,0.0769
+"Van Treuren, R. et al.",1993,Scabiosa columbaria,Dipsacaceae,0.1753,0.3333
+Fritz & Nilsson,1994,Orchis spitzelii,Orchidaceae,1.2562,0.0625
+Fritz & Nilsson,1994,Orchis palustris,Orchidaceae,0.5884,0.0625
+Fritz & Nilsson,1994,Anacamptis pyramidalis,Orchidaceae,0.5712,0.0833
+Oostermeijer et al.,1994,Gentiana pneumonanthe,Gentianaceae,0.2565,0.0625
+"Ouborg, N. J. & Van Treuren, R.",1995,Salvia pratensis,Lamiaceae,0.2683,0.2
+Alexandersson & Ågren,1996,Calypso bulbosa,Orchidaceae,-0.1231,0.0769
+"Ågren, J",1996,Lythrum salicaria,Lythraceae,0.8829,0.0667
+Kunin,1997,Brassica kaber,Brassicaceae,-0.212,0.1667
+"Fischer, M & Matthies, D",1998,Gentianella germanica,Gentianaceae,0.6685,0.05
+"Morgan, J. W.",1998,Rutidosis leptorrhynchoides,Asteraceae,1.0542,0.2
+Oostermeijer et al.,1998,Gentiana pneumonanthe,Gentianaceae,0.6348,0.0714
+"Ehlers, B. K.",1999,Centaurea scabiosa,Asteraceae,0.0701,0.125
+"Hansen, I. & Olesen, J. M.",1999,Dactylorhiza majalis,Orchidaceae,-0.2487,0.2
+Lammi et al.,1999,Lychnis viscaria,Caryophyllaceae,-0.4809,0.125
+Molano-Flores et al.,1999,Allium stellatum,Liliaceae,0.0953,0.125
+"Greimler, J. & Dobes, Ch ",2000,Gentianella austriaca,Gentianaceae,0.1771,0.25
+Kéry et al.,2000,Primula veris,Primulaceae,0.9555,0.0588
+Kéry et al.,2000,Gentiana lutea,Gentianaceae,0.6406,0.0417
+"Luijten, S. et al.",2000,Arnica montana,Asteraceae,0.6184,0.0909
+"Schmidt, K & Jensen, K",2000,Pedicularis palustris,Scrophulariaceae,0.5589,0.1429
+Costin et al.,2001,Leucochrysum albicans,Asteraceae,0.0651,0.0909
+Jacquemyn et al.,2002,Primula elatior,Primulaceae,0.9547,0.0667
+"Leimu, R & Syrjänen, K",2002,Vincetoxicum hirundinaria,Asclepiadaceae,0.379,0.1429
+Paschke et al.,2002,Cochlearia bavarica,Brassicaceae,0.4819,0.0526
+"Van Rossum, F. et al.",2002,Primula elatior,Primulaceae,0.736,0.1667
+"Brys, R. et al.",2003,Primula veris,Primulaceae,0.6091,0.0435
+"Fischer, M. et al.",2003,Cochlearia bavarica,Brassicaceae,0.5514,0.0769
+"Gross, C. L. et al.",2003,Tetratheca juncea,Tremandraceae,0.1283,0.0476
+"Severns, P.",2003,Lupinus sulphureus ssp. kincaidii,Fabaceae,0.4074,0.3333
+"Vergeer, P. et al.",2003,Succisa pratensis,Dipsacaceae,0.722,0.0714
+"Aguilar, R. et al.",2004,Cestrum parqui,Solanaceae,0.6353,0.3333
+"Brys, R. et al.",2004,Primula vulgaris,Primulaceae,0.2844,0.0769
+"Colling, G. & Matthies, D.",2004,Scorzonera humilis,Asteraceae,0.4394,0.0714
+"Waites, A. R. & Ågren, J.",2004,Lythrum salicaria,Lythraceae,0.2422,0.1429

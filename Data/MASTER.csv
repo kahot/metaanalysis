@@ -1,0 +1,99 @@
+Study_ID,Study,Study_ID2,Study_ID3,Treatment,pH,Species,Taxon,Calcifying,Response,Fig,ctrl,sd_ctrl,N_ctrl,treat,sd_treat,N_treat,comments
+Manuel_paper1,"Thom et al., 1996",1,1,Exp3 - 1.25x CO2 enrichment T1,,Zostera marina,Phanerogams,N,Growth,Fig.3a,4.3985,0.266028,29,5.4264,0.786683,29,
+Manuel_paper1,"Thom et al., 1996",1,1,Exp3 - 1.5x CO2 enrichment T1,,Zostera marina,Phanerogams,N,Growth,Fig.3a,4.3985,0.266028,29,5.9181,0.547258,29,
+Manuel_paper1,"Thom et al., 1996",1,1,Exp3 - 1.75x CO2 enrichment T1,,Zostera marina,Phanerogams,N,Growth,Fig.3a,4.3985,0.266028,29,7.1099,0.714476,29,
+Manuel_paper1,"Thom et al., 1996",1,1,Exp3 - 2.0x CO2 enrichment T1,,Zostera marina,Phanerogams,N,Growth,Fig.3a,4.2495,0.334435,29,3.7281,0.212823,29,
+Manuel_paper1,"Thom et al., 1996",1,1,Exp3 - 1.25x CO2 enrichment T2,,Zostera marina,Phanerogams,N,Growth,Fig.3a,4.2495,0.334435,29,3.3259,0.235625,29,
+Manuel_paper1,"Thom et al., 1996",1,1,Exp3 - 1.5x CO2 enrichment T2,,Zostera marina,Phanerogams,N,Growth,Fig.3a,4.2495,0.334435,29,4.2495,0.342036,29,
+Manuel_paper2,"Findlay et al., 2010",1,1,pH 7.7 - 14¡C,7.7,Semibalanus balanoides,Crustacean,Y,Growth,Fig1,14.3765,5.926898,1164,3.3627,1.638203,1164,
+Manuel_paper2,"Findlay et al., 2010",1,1,pH 7.7 - 19¡C,7.7,Semibalanus balanoides,Crustacean,Y,Growth,Fig1,4.3914,3.880005,1164,6.2521,2.077445,1164,
+Manuel_paper2,"Findlay et al., 2010",1,1,pH 7.7 - 14¡C,7.7,Elminius modestus,Crustacean,Y,Growth,Fig1,6.1429,0.94705,922,4.8898,0.702678,922,
+Manuel_paper2,"Findlay et al., 2010",1,1,pH 7.7 - 19¡C,7.7,Elminius modestus,Crustacean,Y,Growth,Fig1,6.8165,0.549922,922,3.7669,0.213897,922,
+Manuel_paper2,"Findlay et al., 2010",1,1,pH 7.7 - 14¡C,7.7,Semibalanus balanoides,Crustacean,Y,Survival,Fig4,88.8626,11.36474,1164,78.673,3.38524,1164,
+Manuel_paper2,"Findlay et al., 2010",1,1,pH 7.7 - 19¡C,7.7,Semibalanus balanoides,Crustacean,Y,Survival,Fig4,54.2844,4.221878,1164,26.5403,2.53893,1164,
+Manuel_paper2,"Findlay et al., 2010",1,1,pH 7.7 - 14¡C,7.7,Elminius modestus,Crustacean,Y,Survival,Fig4,76.3033,3.264339,922,79.6209,2.297127,922,
+Manuel_paper2,"Findlay et al., 2010",1,1,pH 7.7 - 19¡C,7.7,Elminius modestus,Crustacean,Y,Survival,Fig4,70.6161,6.165973,922,68.9573,4.23155,922,
+Carter_Paper1,Talmage and Gobler 2010,1,1,~750 CO2 (ppm),7.8,Argopecten irradians,Mollusc,Y,Growth,2A,452.6315789,31.57894737,4,373.6842105,39.47368421,4,(shell diameter [um])
+Carter_Paper1,Talmage and Gobler 2010,1,1,~1500 CO2 (ppm),7.5,Argopecten irradians,Mollusc,Y,Growth,2A,452.6315789,31.57894737,4,313.1578947,23.68421053,4,(shell diameter [um])
+Carter_Paper1,Talmage and Gobler 2010,1,1,~750 CO2 (ppm),7.8,Mercenaria mercenaria,Mollusc,Y,Growth,2A,281.5789474,2.631578947,4,257.8947368,7.894736842,4,(shell diameter [um])
+Carter_Paper1,Talmage and Gobler 2010,1,1,~1500 CO2 (ppm),7.5,Mercenaria mercenaria,Mollusc,Y,Growth,2A,281.5789474,2.631578947,4,205.2631579,15.78947368,4,(shell diameter [um])
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Ulva sp.,Algae,N,Growth,Table 1,420,14.9,3,460.3,18.9,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Ulva sp.,Algae,N,Growth,Table 1,57.3,20.5,3,66.2,26.8,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Ulva sp.,Algae,N,Growth,Table 1,143.3,43.3,3,181.5,37.2,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Ulva sp.,Algae,N,Growth,Table 1,9.5,1.9,3,12.5,1.4,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Enteromorpha linza,Algae,N,Growth,Table 1,123.9,38.8,3,101.1,39.3,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Enteromorpha linza,Algae,N,Growth,Table 1,84.1,22,3,93.5,11.8,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Pophyra sp.,Algae,N,Growth,Table 1,126.1,10.9,3,103,11.7,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Pterocladia capillaceae,Algae,N,Growth,Table 1,21.8,7.4,3,23.7,6,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Pterocladia capillaceae,Algae,N,Growth,Table 1,11,2.1,3,7.8,2.2,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Soliieria sp.,Algae,N,Growth,Table 1,37.2,10.9,3,44.8,22,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Soliieria sp.,Algae,N,Growth,Table 1,127.3,6.5,3,125,16,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Hypnea musciformis,Algae,N,Growth,Table 1,32,9.6,3,-19.2,30.8,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Hypnea cornuta,Algae,N,Growth,Table 1,4.4,0.7,3,2.2,1.4,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Padina pavonia,Algae,N,Growth,Table 1,41.2,7.1,3,33.2,6.8,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Padina pavonia,Algae,N,Growth,Table 1,17.5,2.9,3,22.2,3.5,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Sargassum vulgare,Algae,N,Growth,Table 1,40,15.9,3,20.1,12.9,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Sargassum vulgare,Algae,N,Growth,Table 1,31.2,14.3,3,25.4,7.7,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Cystoseira sp.,Algae,N,Growth,Table 1,17.2,6.6,3,20.8,7.1,3,growth rate [% of biomass increase per week]
+Carter_Paper2,Israel and Hophy 2002,1,1,CO2 enriched seawater,,Spatoglossum sp.,Algae,N,Growth,Table 1,16.6,4.1,3,10.3,10.3,3,growth rate [% of biomass increase per week]
+Clio_Paper1,"Clark et al., 2009",1,1,pH,6,Tripneustes gratilla,Echinoderm,Y,Survival,Table 3,0.67,0.136,4,0.017,0.002, ,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",1,1,pH,6.5,Tripneustes gratilla,Echinoderm,Y,Survival,Table 3,0.67,0.136,4,0.11,0.104,4,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",1,1,pH,7,Tripneustes gratilla,Echinoderm,Y,Survival,Table 3,0.67,0.136,4,0.52,0.2,4,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",1,1,pH,7.5,Tripneustes gratilla,Echinoderm,Y,Survival,Table 3,0.67,0.136,4,0.77,0.034,4,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",1,1,pH,7.8,Tripneustes gratilla,Echinoderm,Y,Survival,Table 3,0.67,0.136,4,0.78,0.088,4,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",1,1,pH,8,Tripneustes gratilla,Echinoderm,Y,Survival,Table 3,0.67,0.136,4,0.63,0.068,4,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",2,1,pH,6,Evechinus chloroticus,Echinoderm,Y,Survival,Table 3,0.88,0.078,4,0,0,4,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",2,1,pH,6.5,Evechinus chloroticus,Echinoderm,Y,Survival,Table 3,0.88,0.078,4,0.74,0.04,4,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",2,1,pH,7,Evechinus chloroticus,Echinoderm,Y,Survival,Table 3,0.88,0.078,4,0.87,0.03,4,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",2,1,pH,7.5,Evechinus chloroticus,Echinoderm,Y,Survival,Table 3,0.88,0.078,4,0.89,0.042,4,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",2,1,pH,8,Evechinus chloroticus,Echinoderm,Y,Survival,Table 3,0.88,0.078,4,0.71,0.036,4,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",3,1,pH,6,Pseudechinus huttoni,Echinoderm,Y,Survival,Table 3,0.76,0.026,3,0,0,3,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",3,1,pH,6.5,Pseudechinus huttoni,Echinoderm,Y,Survival,Table 3,0.76,0.026,3,0.34,0.121,3,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",3,1,pH,7,Pseudechinus huttoni,Echinoderm,Y,Survival,Table 3,0.76,0.026,3,0.95,0.227,3,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",3,1,pH,7.5,Pseudechinus huttoni,Echinoderm,Y,Survival,Table 3,0.76,0.026,3,1.02,0.1022,3,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",3,1,pH,8,Pseudechinus huttoni,Echinoderm,Y,Survival,Table 3,0.76,0.026,3,1.04,0.227,3,proportion (% survived at end of exp.)
+Clio_Paper1,"Clark et al., 2009",4,1,pH,7.8,Tripneustes gratilla,Echinoderm,Y,Growth,Fig. 3,331.5277,47.259,40,326.542,43.355,40,Length (um)
+Clio_Paper1,"Clark et al., 2009",5,1,pH,7.8,Evechinus chloroticus,Echinoderm,Y,Growth,Fig. 3,290.8315,6.8224,40,278.891,37.756,40,Length (um)
+Clio_Paper1,"Clark et al., 2009",6,1,pH,7.8,Pseudechinus huttoni,Echinoderm,Y,Growth,Fig. 3,307.1428,185.831,30,249.1071,210.27,30,Length (um)
+Clio_Paper1,"Clark et al., 2009",7,1,pH,7.8,Sterechinus neumayeri,Echinoderm,Y,Growth,Fig. 3,148.71794,14.04,30,144.2307,28.088,30,Length (um)
+Moshi paper 1,"Byrne et al., 2010",1,1,pH,7.9,H. tuberculata,Mollusc,Y,Reproduction,Fig 1,96.226,1.66,3,95.419,1.93,3,FR in %
+Moshi paper 1,"Byrne et al., 2010",1,1,pH,7.8,H. tuberculata,Mollusc,Y,Reproduction,Fig 1,96.226,1.66,3,91.915,2.35,3,FR in %
+Moshi paper 1,"Byrne et al., 2010",1,1,pH,7.6,H. tuberculata,Mollusc,Y,Reproduction,Fig 1,96.226,1.66,3,93.531,2.22,3,FR in %
+Moshi paper 1,"Byrne et al., 2010",2,1,pH,7.9,T. gratilla,Echinoderm,Y,Reproduction,Fig 1,88.02,3.8,3,89.669,3.8,3,FR in %
+Moshi paper 1,"Byrne et al., 2010",2,1,pH,7.8,T. gratilla,Echinoderm,Y,Reproduction,Fig 1,88.02,3.8,3,83.058,4.22,3,FR in %
+Moshi paper 1,"Byrne et al., 2010",2,1,pH,7.6,T. gratilla,Echinoderm,Y,Reproduction,Fig 1,88.02,3.8,3,93.389,2.32,3,FR in %
+Moshi paper 1,"Byrne et al., 2010",3,1,pH,7.9,H. coccoradiata,Mollusc,Y,Reproduction,Fig 1,95.044,0.98,5,96.146,0.7,5,FR in %
+Moshi paper 1,"Byrne et al., 2010",3,1,pH,7.8,H. coccoradiata,Mollusc,Y,Reproduction,Fig 1,95.044,0.98,5,96.49,0.28,5,FR in %
+Moshi paper 1,"Byrne et al., 2010",3,1,pH,7.6,H. coccoradiata,Mollusc,Y,Reproduction,Fig 1,95.044,0.98,5,96.975,0.7,5,FR in %
+Moshi paper 1,"Byrne et al., 2010",4,1,pH,7.8,H. erythrogramma,Echinoderm,Y,Reproduction,Fig 1,91.322,2.74,4,91.117,1,4,FR in %
+Moshi paper 1,"Byrne et al., 2010",4,1,pH,7.6,H. erythrogramma,Echinoderm,Y,Reproduction,Fig 1,91.322,2.74,4,94.216,1.9,4,FR in %
+Moshi paper 1,"Byrne et al., 2010",5,1,pH,7.8,C. rodgersii,Echinoderm,Y,Reproduction,Fig 1,96.489,1.37,3,97.933,0.74,3,FR in %
+Moshi paper 1,"Byrne et al., 2010",5,1,pH,7.6,C. rodgersii,Echinoderm,Y,Reproduction,Fig 1,96.489,1.37,3,87.604,2.85,3,FR in %
+Moshi paper 1,"Byrne et al., 2010",6,1,pH,7.8,P. regularis,Echinoderm,Y,Reproduction,Fig 1,88.017,2.42,3,85.537,4.32,3,FR in %
+Moshi paper 1,"Byrne et al., 2010",6,1,pH,7.6,P. regularis,Echinoderm,Y,Reproduction,Fig 1,88.017,2.42,3,87.396,3.06,3,FR in %
+Moshi paper 2,"Parker et al., 2010",1,1,pH,8,C. gigas,Mollusc,Y,Reproduction,Fig 1,92.798,0.36,3,75.519,1.82,3,FR in %
+Moshi paper 2,"Parker et al., 2010",1,1,pH,7.9,C. gigas,Mollusc,Y,Reproduction,Fig 1,92.798,0.36,3,65.843,6.45,3,FR in %
+Moshi paper 2,"Parker et al., 2010",1,1,pH,7.8,C. gigas,Mollusc,Y,Reproduction,Fig 1,92.798,0.36,3,58.449,4.69,3,FR in %
+Moshi paper 2,"Parker et al., 2010",2,1,pH,8,S. glomerata,Mollusc,Y,Reproduction,Fig 1,90.331,2.59,3,73.868,4.28,3,FR in %
+Moshi paper 2,"Parker et al., 2010",2,1,pH,7.9,S. glomerata,Mollusc,Y,Reproduction,Fig 1,90.331,2.59,3,66.872,1.13,3,FR in %
+Moshi paper 2,"Parker et al., 2010",2,1,pH,7.8,S. glomerata,Mollusc,Y,Reproduction,Fig 1,90.331,2.59,3,60.495,2.87,3,FR in %
+Moshi paper 2,"Parker et al., 2010",3,1,pH,8,C. gigas,Mollusc,Y,Growth,Fig 7,954.44,39.61,3,474.11,60.96,3,SG in um
+Moshi paper 2,"Parker et al., 2010",3,1,pH,7.9,C. gigas,Mollusc,Y,Growth,Fig 7,954.44,39.61,3,474.11,79.22,3,SG in um
+Moshi paper 2,"Parker et al., 2010",3,1,pH,7.8,C. gigas,Mollusc,Y,Growth,Fig 7,954.44,39.61,3,331.26,17.93,3,SG in um
+Moshi paper 2,"Parker et al., 2010",4,1,pH,8,S. glomerata,Mollusc,Y,Growth,Fig 7,699.79,118.83,3,339.453,78.89,3,SG in um
+Moshi paper 2,"Parker et al., 2010",4,1,pH,7.9,S. glomerata,Mollusc,Y,Growth,Fig 7,699.79,118.83,3,318.9,37.44,3,SG in um
+Moshi paper 2,"Parker et al., 2010",4,1,pH,7.8,S. glomerata,Mollusc,Y,Growth,Fig 7,699.79,118.83,3,248.446,17.93,3,SG in um
+Kaho_paper1,"Sadern & Wahl, 2013",1,1,Moderate 1200 µatm,7.726,Spirobis spirbis,tubeworm,Y,Growth,Fig.3A,0.9365,0.3461,10,0.8189,0.0897,10,growth(mm)
+Kaho_paper1,"Sadern & Wahl, 2013",1,1,Extreme 3150 µatm,7.334,Spirobis spirbis,tubeworm,Y,Growth,Fig.3A,0.9365,0.3461,10,0.5676,0.1923,10,growth(mm)
+Kaho_paper1,"Sadern & Wahl, 2013",2,1,Moderate 1200 µatm,7.726,Electra pilosa,bryzoan,Y,Growth,Fig.5A,0.5037,0.1874,10,0.763,0.3201,10,relative growth rate (%)
+Kaho_paper1,"Sadern & Wahl, 2013",2,1,Extreme 3150 µatm,7.334,Electra pilosa,bryzoan,Y,Growth,Fig.5A,0.5037,0.1874,10,0.4272,0.3279,10,relative growth rate (%)
+Kaho_paper1,"Sadern & Wahl, 2013",3,1,Moderate 1200 µatm,7.726,Alcyonidium hirsutum,bryzoan,N,Growth,Fig.5B,0.4519,0.4451,10,0.6074,0.7574,10,relative growth rate (%)
+Kaho_paper1,"Sadern & Wahl, 2013",3,1,Extreme 3150 µatm,7.334,Alcyonidium hirsutum,bryzoan,N,Growth,Fig.5B,0.4519,0.4451,10,0.3185,0.3357,10,relative growth rate (%)
+Kaho_paper1,"Sadern & Wahl, 2013",4,1,Moderate 1200 µatm,7.726,Spirobis spirbis,tubeworm,Y,Reproduction,Fig.3B,9.3418,4.6834,10,7.6329,6.7248,10,Number of juveniles per adults
+Kaho_paper1,"Sadern & Wahl, 2013",4,1,Extreme 3150 µatm,7.334,Spirobis spirbis,tubeworm,Y,Reproduction,Fig.3B,9.3418,4.6834,10,1.7848,1.441,10,Number of juveniles per adults
+Kaho_paper2,Albright & Langdon 2011,1,1,Moderate 560 µatm,7.93,Porites asteroides,coral,Y,Reproduction,text,0.65,0.1789,5,0.36,0.2828,8,"Yr 2008, Proportion of settled larvae"
+Kaho_paper2,Albright & Langdon 2011,1,1,Extreme 800 µatm,7.8,Porites asteroides,coral,Y,Reproduction,text,0.65,0.1789,5,0.29,0.1058,7,"Yr 2008, Proportion of settled larvae"
+Kaho_paper2,Albright & Langdon 2011,2,1,Moderate 560 µatm,7.971,Porites asteroides,coral,Y,Reproduction,text,0.53,0.1715,6,0.31,0.1342,5,"Yr 2009, Proportion of settled larvae"
+Kaho_paper2,Albright & Langdon 2011,2,1,Extreme 800 µatm,7.801,Porites asteroides,coral,Y,Reproduction,text,0.53,0.1715,6,0.21,0.1118,5,"Yr 2009, Proportion of settled larvae"
+Kaho_paper2,Albright & Langdon 2011,3,1,Moderate 560 µatm,7.91,Porites asteroides,coral,Y,Growth,text,0.74,0.2466,38,0.62,0.1775,35,"YR 2008, mm"
+Kaho_paper2,Albright & Langdon 2011,3,1,Extreme 800 µatm,7.78,Porites asteroides,coral,Y,Growth,text,0.74,0.2466,38,0.48,0.1616,29,"YR 2008, mm"

@@ -1,0 +1,154 @@
+Study,Species,Taxon,Habitat,Status,No patches,Effect size r
+Telleria and Santos 1995,Aegithalos caudatus,bird,generalist,resident,31,0.03
+Blake and Karr 1987,Agelaius phoeniceus,bird,edge,migrant,14,0.59
+Herkert 1994,Agelaius phoeniceus,bird,edge,migrant,24,-0.57
+Herkert 1994,Ammodramus henslowii,bird,interior,migrant,24,0.81
+Nilsson 1986,Anas crecca,bird,edge,migrant,27,-0.59
+Nilsson 1986,Anas platyrhynchos,bird,edge,resident,30,-0.69
+Martin & Lepart 1989,Anthus trivialis,bird,edge,migrant,11,0.36
+Lynch & Whigham 1984,Archilochus colubris,bird,edge,migrant,10,0.24
+Nilsson 1986,Ardea cinerea,bird,edge,migrant,8,-0.13
+Herkert 1994,Bartramia longicauda,bird,edge,migrant,24,0.14
+Nilsson 1986,Branta canadensis,bird,generalist,migrant,22,-0.53
+Nilsson 1986,Bucephala clangula,bird,edge,resident,20,-0.49
+Blake and Karr 1987,Cardinalis cardinalis,bird,generalist,resident,14,0.50
+Martin et al. 1995,Carduelis pinus,bird,interior,resident,65,0.82
+Martin & Lepart 1989,Carduelis spinus,bird,interior,migrant,12,0.51
+Martin et al. 1995,Catharus guttatus,bird,interior,migrant,65,0.41
+Martin et al. 1995,Certhia americana,bird,interior,resident,65,0.57
+Herkert 1994,Cistothorus platensis,bird,interior,migrant,24,0.14
+Blake and Karr 1987,Coccyzus americanus,bird,interior,migrant,14,0.63
+Lynch & Whigham 1984,Coccyzus americanus,bird,interior,migrant,72,0.25
+Martin et al. 1995,Colaptes auratus,bird,edge,migrant,65,-0.04
+Lynch & Whigham 1984,Colaptes auratus,bird,edge,resident,106,0.07
+Martin & Lepart 1989,Columba palumbus,bird,edge,migrant,6,0.78
+Lynch & Whigham 1984,Contopus virens,bird,interior,migrant,71,0.08
+Martin et al. 1995,Corvus caurinus,bird,edge,resident,65,-0.88
+Martin et al. 1995,Corvus corax,bird,edge,resident,65,0.18
+Martin & Lepart 1989,Corvus corone,bird,edge,migrant,13,-0.24
+Martin & Lepart 1989,Cuculus canorus,bird,generalist,migrant,5,0.90
+Lynch & Whigham 1984,Cyanocitta cristata,bird,generalist,resident,156,-0.05
+Martin et al. 1995,Dendragapus obscurus,bird,interior,resident,65,0.40
+Robbins et al. 1989,Dendroica caerulescens,bird,interior,migrant,13,0.48
+Martin et al. 1995,Dendroica townsendi,bird,interior,migrant,65,0.04
+Herkert 1994,Dolichonyx oryzivorus,bird,interior,migrant,24,0.81
+Martin & Lepart 1989,Dryocopus martius,bird,interior,resident,5,-0.64
+Lynch & Whigham 1984,Dryocopus pileatus,bird,interior,resident,6,0.85
+Lynch & Whigham 1984,Dumetella carolinensis,bird,edge,migrant,24,0.44
+Nilsson 1986,Emberiza schoeniclus,bird,edge,migrant,6,-0.90
+Martin et al. 1995,Empidonax difficilis,bird,interior,migrant,65,0.70
+Lynch & Whigham 1984,Empidonax virescens,bird,interior,migrant,101,0.07
+Blake and Karr 1987,Empidonax virescens,bird,interior,migrant,14,0.73
+Martin & Lepart 1989,Erithacus rubecula,bird,generalist,migrant,12,0.86
+Nilsson 1977,Fringilla coelebs,bird,edge,migrant,6,-0.78
+Nilsson 1986,Gavia arctica,bird,edge,migrant,10,-0.65
+Herkert 1994,Goethlypis trichas,bird,generalist,migrant,24,-0.14
+Lynch & Whigham 1984,Helmintheros vermivorus,bird,interior,migrant,15,-0.19
+Blake and Karr 1987,Hylocichla mustelina,bird,interior,migrant,14,0.55
+Martin et al. 1995,Ixoreus naevius,bird,interior,migrant,65,0.86
+Martin et al. 1995,Junco hyemalis,bird,interior,resident,65,0.61
+Nilsson 1986,Larus argentatus,bird,generalist,migrant,9,0.40
+Nilsson 1986,Larus canus,bird,edge,resident,34,-0.35
+Nilsson 1986,Larus marinus,bird,generalist,migrant,8,-0.28
+Martin et al. 1995,Loxia curvirostra,bird,interior,resident,65,0.71
+Blake and Karr 1987,Melanerpes carolinus,bird,generalist,resident,14,0.64
+Herkert 1994,Melospiza georgiana,bird,edge,migrant,24,-0.14
+Herkert 1994,Melospiza melodia,bird,edge,migrant,24,-0.57
+Martin et al. 1995,Melospiza melodia,bird,edge,migrant,65,-0.88
+Nilsson 1986,Mergus merganser,bird,edge,resident,16,-0.24
+Nilsson 1986,Mergus serrator,bird,edge,resident,6,0.07
+Lynch & Whigham 1984,Mniotilta varia,bird,interior,migrant,12,0.22
+Blake and Karr 1987,Molothrus ater,bird,edge,migrant,14,0.58
+Nilsson 1977,Motacilla alba,bird,generalist,migrant,6,-0.66
+Martin & Lepart 1989,Muscicapa hypoleuca,bird,edge,migrant,7,0.11
+Martin & Lepart 1989,Muscicapa striata,bird,generalist,migrant,8,-0.27
+Lynch & Whigham 1984,Myiarchus crintus,bird,edge,migrant,102,-0.07
+Nilsson 1986,Pandion haliaetus,bird,generalist,migrant,12,-0.40
+Blake and Karr 1987,Parus atricapillus,bird,generalist,resident,14,0.62
+Blake and Karr 1987,Parus bicolor,bird,generalist,resident,14,0.48
+Lynch & Whigham 1984,Parus bicolor,bird,generalist,resident,181,-0.05
+Martin & Lepart 1989,Parus caeruleus ,bird,generalist,resident,8,-0.35
+Telleria and Santos 1995,Parus caeruleus ,bird,generalist,resident,31,-0.07
+Lynch & Whigham 1984,Parus carolinensis,bird,generalist,resident,159,-0.05
+Telleria and Santos 1995,Parus cristatus,bird,generalist,resident,31,0.07
+Martin & Lepart 1989,Parus major,bird,generalist,resident,12,-0.49
+Telleria and Santos 1995,Parus major,bird,generalist,resident,31,0.00
+Martin & Lepart 1989,Parus montanus,bird,generalist,resident,8,-0.19
+Martin et al. 1995,Parus rufescens,bird,interior,resident,65,0.50
+Nilsson 1977,Parus spp.,bird,generalist,resident,6,0.86
+Martin et al. 1995,Passerella iliaca,bird,edge,migrant,65,-0.90
+Herkert 1994,Phasianus colchicus,bird,generalist,resident,24,-0.14
+Robbins et al. 1989,Pheuticus ludovicianus ,bird,interior,migrant,56,0.10
+Ambuel & Temple 1983,Pheuticus ludovicianus ,bird,interior,migrant,26,0.44
+Martin & Lepart 1989,Phylloscopus sibilatrix,bird,interior,migrant,8,0.70
+Martin & Lepart 1989,Phylloscopus trochilus,bird,edge,migrant,13,0.09
+Nilsson 1977,Phylloscopus trochilus,bird,edge,migrant,6,-0.68
+Blake and Karr 1987,Picoides pubsecens,bird,generalist,resident,14,0.52
+Blake and Karr 1987,Picoides villosus,bird,interior,resident,14,0.77
+Martin et al. 1995,Picoides villosus,bird,interior,resident,65,0.76
+Lynch & Whigham 1984,Picoides villosus,bird,interior,resident,44,-0.10
+Lynch & Whigham 1984,Pipilo erythrophthalmus,bird,edge,resident,116,-0.06
+Lynch & Whigham 1984,Piranga olivacea,bird,interior,migrant,155,-0.05
+Blake and Karr 1987,Piranga olivacea,bird,interior,migrant,14,0.72
+Nilsson 1986,Podiceps cristatus,bird,edge,migrant,16,-0.80
+Lynch & Whigham 1984,Polioptila caerulea,bird,edge,migrant,26,0.14
+Martin & Lepart 1989,Prunella modularis,bird,edge,migrant,10,0.75
+Telleria and Santos 1995,Regulus ignicapillus,bird,interior,migrant,31,-0.07
+Telleria and Santos 1995,Regulus regulus,bird,interior,migrant,31,-0.07
+Martin & Lepart 1989,Regulus regulus,bird,interior,migrant,13,0.39
+Martin et al. 1995,Regulus satrapa,bird,interior,resident,65,0.50
+Robbins et al. 1989,Seiurus noveboracensis,bird,interior,migrant,33,0.34
+Martin et al. 1995,Selasphorus rufus,bird,edge,migrant,65,-0.86
+Martin et al. 1995,Sitta canadensis,bird,interior,resident,65,0.45
+Lynch & Whigham 1984,Sitta carolinensis,bird,interior,resident,14,-0.20
+Blake and Karr 1987,Sitta carolinensis,bird,interior,resident,14,0.64
+Telleria and Santos 1995,Sitta eusropaea,bird,interior,resident,31,0.02
+Martin et al. 1995,Sphyrapicus ruber,bird,interior,resident,65,0.14
+Thiollay & Meyburg 1988,Spilornis cheela,bird,interior,resident,5,0.75
+Herkert 1994,Spiza americana,bird,interior,migrant,24,0.14
+Herkert 1994,Spizella pusilla,bird,edge,migrant,24,-0.14
+Nilsson 1986,Sterna hirundo,bird,generalist,migrant,14,-0.27
+Herkert 1994,Strunella magna,bird,interior,migrant,24,0.57
+Blake and Karr 1987,Sturnus vulgaris,bird,edge,resident,14,-0.55
+Martin & Lepart 1989,Sylvia borin,bird,edge,migrant,10,0.42
+Nilsson 1977,Sylvia borin,bird,edge,migrant,6,-0.21
+Martin & Lepart 1989,Sylvia curruca,bird,interior,migrant,13,0.22
+Rolstad & Wegge 1987,Tetrao urogallus,bird,interior,resident,11,0.04
+Lynch & Whigham 1984,Thryothorus ludovicianus,bird,edge,resident,75,0.08
+Nilsson 1977,Tringa hypoleucos,bird,edge,migrant,6,-0.66
+Martin et al. 1995,Troglodytes troglodytes,bird,edge,resident,65,-0.09
+Martin & Lepart 1989,Troglodytes troglodytes,bird,interior,migrant,7,-0.11
+Martin & Lepart 1989,Troglodytes iliacus,bird,edge,migrant,11,-0.13
+Martin & Lepart 1989,Turdus merula,bird,generalist,migrant,13,-0.17
+Nilsson 1977,Turdus merula,bird,generalist,migrant,6,-0.22
+Martin et al. 1995,Turdus migratorius,bird,edge,migrant,65,0.61
+Martin & Lepart 1989,Turdus philomelos,bird,edge,migrant,8,-0.31
+Martin & Lepart 1989,Turdus pilaris,bird,edge,migrant,6,0.23
+Martin et al. 1995,Vermivora celata,bird,edge,migrant,65,-0.82
+Lynch & Whigham 1984,Vireo flavifrons,bird,interior,migrant,11,0.23
+Lynch & Whigham 1984,Vireo griseus,bird,generalist,migrant,34,0.12
+Lynch & Whigham 1984,Vireo olivaceus,bird,generalist,migrant,172,0.05
+Blake and Karr 1987,Vireo olivaceus,bird,generalist,migrant,14,0.63
+Robbins et al. 1989,Wilsonia canadensis,bird,interior,migrant,22,0.36
+Martin et al. 1995,Wilsonia pusilla,bird,interior,migrant,65,0.40
+Bach 1984,Acalymma innubom,insect,interior,resident,18,0.66
+Bach 1984,Acalymma innubom,insect,interior,resident,32,0.17
+Bach 1988,Acalymma vittatum,insect,generalist,resident,21,-0.04
+Bach 1988,Diabrotica undecimpunctata,insect,generalist,resident,21,0.26
+Bach 1988,Diabrotica virgitera,insect,generalist,resident,21,0.28
+Launere & Murphy 1994,Eudydryas bayensis,insect,interior,resident,27,0.21
+Hertzberg et al. 1994,Folsomia quadrioculata,insect,interior,resident,30,0.82
+Hertzberg et al. 1994,Folsomia sexoculata,insect,interior,resident,30,-0.71
+Hertzberg et al. 1994,Hypogastrura longispina,insect,interior,resident,30,-0.79
+Hanski et al. 1995,Nelitaea cinxia,insect,interior,resident,30,0.25
+Hertzberg et al. 1994,Onychiurus groenlandicum,insect,interior,resident,30,0.83
+van Dongen et al. 1994,Operophtera brumata,insect,generalist,resident,7,0.79
+Loman 1991,Cletrionomys glareolus,mammal,edge,resident,11,-0.38
+van Apeldoorn et al. 1992,Cletrionomys glareolus,mammal,interior,resident,46,0.23
+Keith et al. 1993,Lupus americana,mammal,edge,resident,7,-0.13
+Loman 1991,Microtus agrestis,mammal,edge,resident,11,-0.28
+Smith 1974,Ochtona principes,mammal,interior,resident,78,0.65
+Adler et al. 1986,Peromyscus leucopus,mammal,interior,resident,21,0.33
+Fitzgibbon 1993,Sciurus caolinensis,mammal,edge,resident,68,-0.13
+Loman 1991,Sorex araneus,mammal,interior,resident,11,0.55
+Henderson et al. 1985,Tamias striatus,mammal,interior,resident,5,0.83

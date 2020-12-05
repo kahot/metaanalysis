@@ -1,0 +1,78 @@
+study,species,response,n_C,n_E,d,taxa,class,response_no,taxa_num
+Aars & Ims 1999,Microtus oeconomus (?),Proportion individuals moved,6,6,0.344,nonavian vertebrate,2,1,4
+Aars & Ims 1999,Microtus oeconomus (?),Proportion individuals moved,6,6,0,nonavian vertebrate,2,2,4
+Andreassen et al. 1998,Microtus oeconomus (?),Proportion individuals moved,2,2,1.277,nonavian vertebrate,2,1,4
+Andreassen et al. 1998,Microtus oeconomus (?),Proportion individuals moved,2,2,1.502,nonavian vertebrate,2,2,4
+Andreassen & Ims 2001,Microtus oeconomus,Proportion individuals moved,4,4,0.091,nonavian vertebrate,2,1,4
+Baker 2007,Phidippus princeps,Number individuals moved,6,6,6.613,invertebrate,2,1,2
+Baum et al. 2004,Prokelisia crocea,Colonists in brome matrix,10,10,0.243,invertebrate,2,1,2
+Baum et al. 2004,Prokelisia crocea,Colonists in mudflat matrix,10,10,0.224,invertebrate,2,2,2
+Baur 1991,Ariata arbustrorum,Movement rate,1,4,-6.148,invertebrate,2,1,2
+Bowne et al. 1999,Sigmodon hispidus,Colonization in patches,10,6,-0.593,nonavian vertebrate,2,1,4
+Brinkerhoff 2002,Peromyscus gossypinus,Proportion individuals moved,6,6,7.527,nonavian vertebrate,2,1,4
+Brinkerhoff 2002,Peromyscus polionotus,Proportion individuals moved,6,6,0,nonavian vertebrate,2,2,4
+Brinkerhoff 2002,Peromyscus gossypinus/ Peromyscus polio,Difference in seeds left pre/post trt,3,3,0.364,nonavian vertebrate,2,3,4
+Castell¢n & Sieving 2006,Scelorchilus rubecula,Days to dispersal,7,6,0.802,bird,2,1,1
+Coffman et al. 2001,Microtus pennsylvanicus,Movement rate,4,4,0.076,nonavian vertebrate,2,1,4
+Collinge 2000,Gryllus sp.,Movement rate,3,2,-0.267,invertebrate,2,1,2
+Collinge 2000,Insects ? 300 spp.,Insect abundance,6,6,-0.151,invertebrate,2,2,2
+Damschen et al. 2006,Native plant species,Species richness,6,6,1.918,plant,1,1,5
+Danielson & Hubbard 2000,Peromyscus polionotus,Proportion dispersed,3,4,0.858,nonavian vertebrate,2,1,4
+Darcy & Eggleston 2005,Argopecten irradians,Proportion individuals moved,6,6,-0.421,invertebrate,2,1,2
+Darcy & Eggleston 2005,Polychaetes,Density individuals,3,3,1.583,invertebrate,2,2,2
+Darcy & Eggleston 2005,Gastropods,Density individuals,3,3,0.791,invertebrate,2,3,2
+Darcy & Eggleston 2005,Amphipods,Density individuals,3,3,0.768,invertebrate,2,4,2
+Darcy & Eggleston 2005,Bivalves,Density individuals,3,3,0.243,invertebrate,2,5,2
+Gillies & St. Clair 2008,Thamnophilus doliatus,Proportion individuals moved,10,10,0.271,bird,2,1,1
+Gillies & St. Clair 2008,Campylorhynchus rufinucha,Proportion individuals moved,10,10,0.064,bird,2,2,1
+Haddad 1999,Lanius ludovicianus,Proportion individuals moved,3,3,2.53,bird,2,1,1
+Haddad 1999,Euptoieta claudia,Proportion individuals moved,3,3,-0.177,invertebrate,2,2,2
+Haddad et al. 2003,Junonica coenia,Proportion individuals moved,48,48,0.712,invertebrate,2,1,2
+Haddad et al. 2003,Peromyscus polionotus,Proportion individuals moved,3,3,3.8,nonavian vertebrate,2,2,4
+Haddad et al. 2003,Rhus copallina,Number seeds moved,4,4,0.602,plant,1,3,5
+Haddad et al. 2003,Phytolacca americana,Number seeds moved,3,3,0.671,plant,1,4,5
+Haddad et al. 2003,Ilex opaca,Number seeds moved,2,2,1.284,plant,1,5,5
+Haddad et al. 2003,Myrica cerifera,Number seeds moved,4,4,1.062,plant,1,6,5
+Haddad et al. 2003,Xylocopa virginica,Proportion moved,2,2,0.12,invertebrate,2,7,2
+Haddad et al. 2003,Passiflora incarnata,Proportion pollinated,2,2,0.068,plant,1,8,5
+Hoyle & Gilbert 2004,Acarina & Collembola,Gamma Diversity,6,6,-1.177,invertebrate,2,1,2
+Hoyle 2005,Acarina & Collembola,Species richness,9,9,0.191,invertebrate,2,2,2
+La Polla & Barrett 1993,Microtus pennsylvanicus (?),Number dispersers,3,3,-0.091,nonavian vertebrate,2,1,4
+La Polla & Barrett 1993,Microtus pennsylvanicus (?),Number dispersers,3,3,3.264,nonavian vertebrate,2,2,4
+Lanoue 1988,Peromyscus leucopus,Time in corridor v not (corridor resident),6,6,5.413,nonavian vertebrate,2,1,4
+Lanoue 1988,Peromyscus leucopus,Time in corridor v not (forest transient),6,6,11.462,nonavian vertebrate,2,2,4
+Lanoue 1988,Peromyscus leucopus,Time in corridor v not (agricultural transient),6,6,11.636,nonavian vertebrate,2,3,4
+Levey et al. 2005,Myrica cerifera,Proportion seeds dispersed,8,8,1.142,plant,1,1,5
+Mabry et al. 2003,Sigmodon hispidus,Density,3,6,0.556,nonavian vertebrate,2,1,4
+Mabry et al. 2003,Peromyscus polionotus,Density,3,6,-1.653,nonavian vertebrate,2,2,4
+Mabry et al. 2003,Peromyscus gossypinus,Density,3,6,0.604,nonavian vertebrate,2,3,4
+Mech & Hallett 2001,Clethrionomys gapperi,Genetic distance,3,3,0.557,nonavian vertebrate,2,1,4
+Norris et al. 2001,Wilsonia citrina,% time outside territory,13,7,-0.246,bird,2,1,1
+Orrock & Danielson 2005,Peromyscus polionotus,Number seeds remaining,2,4,-5.093,nonavian vertebrate,2,1,4
+Orrock et al. 2003,Phytolacca americana,Number seeds remaining,8,8,0.162,plant,1,1,5
+Orrock et al. 2003,Invertebrates and rodents,Number seeds remaining,8,8,0.174,invertebrate and nonavian vertebrate,2,2,3
+Orrock et al. 2003,Invertebrates,Number seeds remaining,8,8,-0.061,invertebrate,2,3,2
+Orrock & Damschen 2005,Prunus serotina,Number seeds remaining,8,8,1.105,plant,1,1,5
+Orrock & Damschen 2005,Rubus allegheniensis,Number seeds remaining,8,8,1.026,plant,1,2,5
+Rantalainen et al. 2004,Enchytraeid worms,Abundance,7,7,0.534,invertebrate,2,1,2
+Rantalainen et al. 2004,Collembolla,Abundance,7,7,-0.098,invertebrate,2,2,2
+Rantalainen et al. 2004,Oribatida mite,Abundance,7,7,-0.643,invertebrate,2,3,2
+Rantalainen et al. 2004,Mesostigmata mite,Abundance,7,7,0.191,invertebrate,2,4,2
+Rantalainen et al. 2004,Collembolla,Species richness,7,7,0.117,invertebrate,2,5,2
+Rantalainen et al. 2004,Oribatida mite,Species richness,7,7,-0.064,invertebrate,2,6,2
+Rantalainen et al. 2004,Mesostigmata mite,Species richness,7,7,0.762,invertebrate,2,7,2
+Rantalainen et al. 2005,Collembolla  Oribatida & Mesostigmata,Abundance (2 cmý),8,8,0.015,invertebrate,2,8,2
+Rantalainen et al. 2005,Collembolla  Oribatida & Mesostigmata,Abundance (20 cmý),8,8,-0.037,invertebrate,2,9,2
+Rantalainen et al. 2005,Collembolla  Oribatida & Mesostigmata,Abundance (200 cmý),8,8,0.226,invertebrate,2,10,2
+Roberts & Angermeier 2007,Etheostoma podostemone,Proportion individuals moved,4,4,2.216,nonavian vertebrate,2,1,4
+Roberts & Angermeier 2007,Percina roanoka,Proportion individuals moved,4,4,5.055,nonavian vertebrate,2,2,4
+Rosenburg 1994,Ensatina eschscholtzii,Interpatch movement,5,5,-0.888,nonavian vertebrate,2,1,4
+St Clair et al. 1998,Poecile atricapillus,Proportion moved,32,27,0.794,bird,2,1,1
+St Clair et al. 1998,Sitta carolinensis,Proportion moved,4,3,-0.544,bird,2,2,1
+St Clair et al. 1998,Picoides villosus,Proportion moved,3,2,0.118,bird,2,3,1
+Tewksbury et al. 2002,Junonia coenia,Proportion individuals moved,8,8,0.904,invertebrate,2,1,2
+Tewksbury et al. 2002,Euptoieta claudia,Proportion individuals moved,8,8,0.896,invertebrate,2,2,2
+Tewksbury et al. 2002,Illex verticillata,Fruits per flower,8,8,1.087,plant,1,3,5
+Tewksbury et al. 2002,Illex vomitoria,Seeds per patch,8,8,0.846,plant,1,4,5
+Townsend & Levey 2005,Lanatana camara,Pollen transfer,8,8,1.4,plant,1,1,5
+Townsend & Levey 2005,Rudbeckia hirta,Pollen transfer,8,8,1.278,plant,1,2,5
